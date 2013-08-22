@@ -27,3 +27,9 @@ GMCipher64.dll
 /Chrome/samplevsproject/Debug/
 
 /Firefox/npruntime/Debug/
+
+/por/ChatServer/obj/
+/por/ChatServer/bin/
+
+/por/POK_project/POK_project/bin/
+/por/POK_project/POK_project/obj/
